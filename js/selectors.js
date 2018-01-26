@@ -12,4 +12,4 @@ function divSelector(){
 }
 function firstListItem(){
   $('#pic-list:first-child')
-}
+} 
